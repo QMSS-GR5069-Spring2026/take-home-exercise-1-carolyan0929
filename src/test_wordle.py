@@ -11,7 +11,7 @@ from wordle import (
     check_guess,
     is_valid_word,
 )
-
+print("This is Zhijie speaking")
 # Word list for testing
 WORD_LIST = [
     "crane", "apple", "hello", "world", "python", 
